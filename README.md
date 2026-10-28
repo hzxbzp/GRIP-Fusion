@@ -1,14 +1,8 @@
 <div align="center">
 
-# GRIP-Fusion
-
-### Roadside Camera–LiDAR 3D Perception for Intersection Safety
+<img src="assets/cover.jpg" width="100%" alt="GRIP-Fusion: Roadside Camera-LiDAR 3D Perception for Intersection Safety">
 
 **A new intersection dataset** &nbsp;·&nbsp; **A roadside camera–LiDAR 3D detector** &nbsp;·&nbsp; **State-of-the-art on three public benchmarks**
-
-<img src="assets/v2x_camera_0.jpg" width="92%">
-
-<sub>GRIP-Fusion 3D detections at the TUMTraf S110 intersection (one LiDAR + one camera).</sub>
 
 ![status](https://img.shields.io/badge/dataset-annotation%20in%20progress-orange)
 ![status](https://img.shields.io/badge/code-coming%20soon-lightgrey)
@@ -105,6 +99,7 @@ All numbers are on the official splits. Every method is trained and evaluated by
 
 ### Camera view — TUMTraf V2X
 
+<p align="center"><img src="assets/v2x_camera_0.jpg" width="98%"></p>
 <p align="center">
 <img src="assets/v2x_camera_1.jpg" width="49%">
 <img src="assets/v2x_camera_2.jpg" width="49%">
